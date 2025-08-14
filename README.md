@@ -26,8 +26,7 @@ Atuar na área de *Análise de Dados*, aplicando conhecimentos em linguagens de 
 ## 📫 Como me encontrar
 
 * *LinkedIn:* [[linkedin.com/in/rayza-dias-alves](https://www.linkedin.com/feed/)](#)
-* *E-mail:* [rayzaadias@gmail.com](mailto: rayzaadias@gmail.com)
-
+* *E-mail:* [rayzaadias@gmail.com]
 ---
 
 "A análise de dados não é apenas sobre números, mas sobre encontrar histórias e oportunidades escondidas neles."
