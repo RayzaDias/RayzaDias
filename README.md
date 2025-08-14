@@ -22,14 +22,11 @@ Atuar na área de *Análise de Dados*, aplicando conhecimentos em linguagens de 
 ## 📂 Projetos em Destaque
 
 * 📌 [Projeto de Dashboard Power BI – Análise de Dados Fictícios](#)
-* 📌 [Sistema de Gerenciamento de Apostas – Python](#)
-* 📌 [Análise de Desempenho de Goleiros – Excel & Power BI](#)
 
 ## 📫 Como me encontrar
 
-* *LinkedIn:* [linkedin.com/in/rayza-dias-alves](#)
-* *E-mail:* [seuemail@example.com](mailto:seuemail@example.com)
-* *GitHub:* [github.com/seuusuario](#)
+* *LinkedIn:* [[linkedin.com/in/rayza-dias-alves](https://www.linkedin.com/feed/)](#)
+* *E-mail:* [rayzaadias@gmail.com](mailto: rayzaadias@gmail.com)
 
 ---
 
