@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Rayza Dias</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Olá! Eu sou Rayza Dias Alves
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayzadias&label=Profile%20views&color=0e75b6&style=flat" alt="rayzadias" /> </p>
+🎯 *Objetivo Profissional*
+Atuar na área de *Análise de Dados*, aplicando conhecimentos em linguagens de programação, banco de dados e ferramentas de visualização para gerar insights que apoiem decisões estratégicas.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayzadias" alt="rayzadias" /></a> </p>
+## 🚀 Sobre Mim
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+* 💡 Perfil *analítico*, focado em resolução de problemas e melhoria contínua.
+* 🎓 Estudante de *Análise e Desenvolvimento de Sistemas* – Faculdade Senac Pernambuco (3º período).
+* 📊 Em constante aprendizado nas áreas de *Python, **R, **SQL, **ETL, **MySQL Workbench* e *Power BI*.
+* 💻 Conhecimentos prévios em *HTML, **CSS* e *JavaScript*.
+* 📈 Interesse em *Ciência de Dados, **Machine Learning* e *Business Intelligence*.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tecnologias e Ferramentas
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayzadias&show_icons=true&locale=en&layout=compact" alt="rayzadias" /></p>
+* *Linguagens:* Python, R, SQL, HTML, CSS, JavaScript
+* *Banco de Dados:* MySQL Workbench
+* *ETL:* Conceitos e práticas
+* *Visualização de Dados:* Power BI
+* *Controle de Versão:* Git e GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayzadias&show_icons=true&locale=en" alt="rayzadias" /></p>
+## 📂 Projetos em Destaque
+
+* 📌 [Projeto de Dashboard Power BI – Análise de Dados Fictícios](#)
+* 📌 [Sistema de Gerenciamento de Apostas – Python](#)
+* 📌 [Análise de Desempenho de Goleiros – Excel & Power BI](#)
+
+## 📫 Como me encontrar
+
+* *LinkedIn:* [linkedin.com/in/rayza-dias-alves](#)
+* *E-mail:* [seuemail@example.com](mailto:seuemail@example.com)
+* *GitHub:* [github.com/seuusuario](#)
+
+---
+
+"A análise de dados não é apenas sobre números, mas sobre encontrar histórias e oportunidades escondidas neles."
