@@ -21,6 +21,9 @@ Atuar na área de *Análise de Dados*, aplicando conhecimentos em linguagens de 
 
 # 📂 Projetos em Destaque
 
+* 📌 
+* 📌 
+* 📌 
 
 ## 📫 Como me encontrar
 
