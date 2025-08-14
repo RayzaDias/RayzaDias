@@ -19,6 +19,8 @@ Atuar na área de *Análise de Dados*, aplicando conhecimentos em linguagens de 
 * *Visualização de Dados:* Power BI
 * *Controle de Versão:* Git e GitHub
 
+# 📂 Projetos em Destaque
+
 
 ## 📫 Como me encontrar
 
